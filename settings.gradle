@@ -1,5 +1,10 @@
 rootProject.name = 'kur-brand'
 
-include 'user'
 include 'external'
 include 'common'
+include 'application'
+include 'member'
+include 'product'
+include 'order'
+include 'inventory'
+
