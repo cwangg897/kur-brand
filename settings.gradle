@@ -3,3 +3,5 @@ rootProject.name = 'kur-brand'
 include 'user'
 include 'external'
 include 'common'
+include 'application'
+
